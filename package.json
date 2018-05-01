@@ -1,4 +1,8 @@
 {
+  "name": "jquery-timer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jchavannes/jquery-timer",
+  "main": "jquery.timer.js",
   "scripts": {
     "test": "node tests/run.js"
   }
